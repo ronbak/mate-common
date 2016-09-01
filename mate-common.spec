@@ -127,7 +127,7 @@ make %{?_smp_mflags} V=1
 - New upstream release 1.5
 
 * Thu Aug 2 2012 Dan Mashal <dan.mashal@fedoraproject.org> 1.4.0-8
-- Re add requires with proper required packages for dependant packages.
+- Re add requires with proper required packages for dependent packages.
 
 * Thu Aug 2 2012 Dan Mashal <dan.mashal@fedoraproject.org> 1.4.0-7
 - Remove requires field as it is not necessary.
